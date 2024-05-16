@@ -2,7 +2,7 @@
 
 ## Description
 
-Langchain Projects is a collection of projects that...
+My collection of Langchain Projects
 
 ## Installation
 
