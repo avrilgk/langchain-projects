@@ -1,3 +1,5 @@
+# Application is WIP. 
+
 import warnings
 from langchain_community.chat_models import ChatOpenAI
 from dotenv import load_dotenv
